@@ -1,4 +1,4 @@
-Real Time Facetracker
+# Real Time Facetracker
 
 Trains model to detect faces. When the core application is run,
 if your computer has a built-in camera, a pop-up will appear that will
